@@ -1,1 +1,12 @@
 Kaggle Notebook Link: https://www.kaggle.com/code/omjbhisra/pca-practice
+
+Videos: 
+
+Pca 1: https://www.youtube.com/watch?v=iRbsBi5W0-c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=47&pp=iAQB0gcJCdsKAYcqIYzv
+Pca 2: https://www.youtube.com/watch?v=tXXnxjj2wM4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=48&pp=iAQB
+Pca 3: https://www.youtube.com/watch?v=tofVCUDrg4M&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=49&pp=iAQB
+
+Documentation: 
+
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
